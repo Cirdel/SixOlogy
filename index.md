@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+本页面为搬运网页，原地址<a herf="http://bog.ac/tool/6/"> www.点击这里.com</a>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
